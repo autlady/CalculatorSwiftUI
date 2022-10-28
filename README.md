@@ -1,6 +1,6 @@
 # Calculator
 
-A clone of Apple Calculator developed with SwiftUI
+A clone of Apple Calculator in SwiftUI (using MVVM)
 
 
 
